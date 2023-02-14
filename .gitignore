@@ -26,3 +26,8 @@ pnpm-debug.log*
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+# firebase
+.firebaserc
+firebase.json
+.firebase/
