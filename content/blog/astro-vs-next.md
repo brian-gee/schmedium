@@ -2,7 +2,7 @@
 external: false
 title: Astro.build vs Next.js
 description: Comparison between two popular web frameworks.
-date: 2023-02-14
+date: 2023-02-10
 ---
 
 # Astro.build vs Next.js: Which One Should You Choose?
